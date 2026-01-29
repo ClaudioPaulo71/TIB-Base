@@ -1,0 +1,13 @@
+# Python e Venv
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Django
+db.sqlite3
+*.log
+local_settings.py
+
+# Mídia (Opcional: Geralmente não enviamos os PDFs dos clientes para o Git)
+media/
