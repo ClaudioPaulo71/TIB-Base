@@ -58,7 +58,7 @@ Transformar o processo de revisão de qualidade (QA), que hoje é manual e prope
 - **Backend:** Python 3.13 + Django 5.x
 - **Frontend:** Bootstrap 5 + Django Templates
 - **Processamento de Dados:** PDFPlumber, Re (Regex)
-- **Banco de Dados:** SQLite (Dev) / PostgreSQL (Prod ready)
+- **Banco de Dados:** SQLite (Dev) / PostgreSQL (Prod ready).
 
 ## ⚙️ Instalação e Execução
 
